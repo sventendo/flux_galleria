@@ -93,5 +93,3 @@ class GalleriaFluxViewHelper extends AbstractViewHelper {
 
 
 }
-
-?>

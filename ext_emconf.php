@@ -29,14 +29,9 @@ $EM_CONF[$_EXTKEY] = array(
     'constraints' => array(
         'depends' => array(
             'typo3' => '6.1.0-8.7.99',
-            'cms' => '',
-            'extbase' => '',
-            'fluid' => '',
             'flux' => '7.1.0-8.2.99',
         ),
         'conflicts' => array(),
         'suggests' => array(),
     )
 );
-
-?>

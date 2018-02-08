@@ -48,5 +48,3 @@ class PluginConfigurationProvider extends \FluidTYPO3\Flux\Provider\Provider {
     protected $templatePathAndFilename = 'EXT:flux_galleria/Resources/Private/Templates/Galleria/Index.html';
 
 }
-
-?>

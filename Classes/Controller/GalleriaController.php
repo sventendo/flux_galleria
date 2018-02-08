@@ -596,5 +596,3 @@ class GalleriaController extends ActionController {
 
 
 }
-
-?>
