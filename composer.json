@@ -1,0 +1,17 @@
+{
+  "name": "sventendo/flux_galleria",
+  "description": "Fully featured image and video gallery based on EXT:flux and galleria.io",
+  "type": "typo3-cms-extension",
+  "version": "2.1.1",
+  "license": "GPL-2.0+",
+  "preferred-install": "dist",
+  "autoload": {
+    "psr-4": {
+      "DMF\\FluxGalleria\\": "Classes/"
+    }
+  },
+  "require": {
+    "typo3": "6.1.0-8.7.99",
+    "flux": "7.1.0-8.2.99"
+  }
+}
