@@ -11,7 +11,7 @@
     }
   },
   "require": {
-    "typo3": "^7.6 || ^8.7",
-    "flux": "^7"
+    "typo3/cms-core": "^7.6 || ^8.7",
+    "fluidtypo3/flux": "^7"
   }
 }
