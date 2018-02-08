@@ -1,5 +1,5 @@
 {
-  "name": "sventendo/flux_galleria",
+  "name": "sventendo/flux-galleria",
   "description": "Fully featured image and video gallery based on EXT:flux and galleria.io",
   "type": "typo3-cms-extension",
   "version": "2.1.1",
